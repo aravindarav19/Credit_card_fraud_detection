@@ -82,7 +82,7 @@ The Random Forest model demonstrated high accuracy and a good balance between pr
 
 1. **`Credit Card Fraud Detection Using Random Forest.ipynb`**: Jupyter Notebook containing the full implementation.
 2. **`creditcard.csv`**: Dataset used for the analysis.
-3. **`Credit_Card_Fraud_Detection_Presentation.pptx`**: Project presentation summarizing key findings.
+3. **`Credit_Card_Fraud_Detection_Presentation.pdf`**: Project presentation summarizing key findings.
 
 ---
 
@@ -101,10 +101,4 @@ The Random Forest model demonstrated high accuracy and a good balance between pr
    jupyter notebook "Credit Card Fraud Detection Using Random Forest.ipynb"
    ```
 
----
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
