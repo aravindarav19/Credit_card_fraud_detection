@@ -90,7 +90,7 @@ The Random Forest model demonstrated high accuracy and a good balance between pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/aravindarav19/Credit_card_fraud_detection.git
    ```
 2. Install the required libraries:
    ```bash
